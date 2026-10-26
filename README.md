@@ -4,10 +4,6 @@ Checks whether what a DAO votes for is what its code actually does.
 
 Built for the **Information Asymmetry** theme, Problem 1: *The Governance Illusion: DAO Accountability*.
 
-**Team:** [team name]
-**Members:** [name 1], [name 2], [name 3], [name 4]
-**Demo video:** [link]
-
 ---
 
 ## The problem
